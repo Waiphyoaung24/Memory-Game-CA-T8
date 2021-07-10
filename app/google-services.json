@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "123564818638",
+    "project_id": "memory-game-ca-firebase",
+    "storage_bucket": "memory-game-ca-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123564818638:android:91b7d7700be1b91cb2509f",
+        "android_client_info": {
+          "package_name": "com.example.memorygameca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123564818638-4trnro165c70glq9odlil9o3ik80ktno.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.memorygameca",
+            "certificate_hash": "aecc6c93f1138f0a193018de754f4b080071b2f5"
+          }
+        },
+        {
+          "client_id": "123564818638-tlbeibn99vjgjpn5ntn3hidvqle2iber.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE20Ve4wHEqO2DIn4K02J84iPn8jcinmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123564818638-tlbeibn99vjgjpn5ntn3hidvqle2iber.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
